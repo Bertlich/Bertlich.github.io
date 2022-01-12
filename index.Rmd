@@ -1,0 +1,39 @@
+---
+title: "Tisa Bertlich"
+image: "website JGU.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/tisa-b-3570a2195/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/Bertlich"
+  - label: Email
+    url: "mailto:tisa.bertlich[at]student.uva.nl"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Tisa Bertlich is a research master's student at the University of Amsterdam in social psychology and psychological methods. She is interested in conspiracy beliefs and populism, open science practices, and programming in R. In her free time, she enjoys to go for a hike and play the ukulele. 
+
+## Education
+
+**University of Amsterdam** | Amsterdam, NL
+
+M.Sc. in Behavioural Data Science | September 2021 - present
+
+**University of Amsterdam** | Amsterdam, NL
+
+M.Sc. in Psychology | September 2019 - August 2021
+
+**University of Koblenz-Landau** | Landau, DE
+
+B.Sc. in Psychology | October 2015 - March 2018
+
+## Experience
+
+**Psychology of Science Lab** | Research Assistant |  March 2021 - October 2021
+
+**University of Trier** | Research Assistant | January 2020 - August 2020

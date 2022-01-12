@@ -1,11 +1,9 @@
 ---
 title: "Tisa Bertlich"
-image: "website JGU.jpg"
+image: "C:/Users/JoeBe/Pictures/Bewerbungsfoto/website JGU.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/tisa-b-3570a2195/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/Bertlich"
   - label: Email

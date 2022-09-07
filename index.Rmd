@@ -7,14 +7,14 @@ links:
   - label: GitHub
     url: "https://github.com/Bertlich"
   - label: Email
-    url: "mailto:tisa.bertlich[at]student.uva.nl"
+    url: "mailto:tisa.bertlich[at]posteo.de"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Tisa Bertlich is a research master's student at the University of Amsterdam in social psychology and psychological methods. She is interested in conspiracy beliefs and populism, open science practices, and programming in R. In her free time, she enjoys to go for a hike and play the ukulele. 
+I am a research master's student at the University of Amsterdam in social psychology and psychological methods. I am interested in conspiracy beliefs and populism, open science practices, and programming in R. In her free time, she enjoys to go for a hike and play the ukulele. 
 
 ## Education
 

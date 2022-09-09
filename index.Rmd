@@ -14,7 +14,7 @@ output:
  
 ## Bio
 
-I am a postdoctoral student at the University of Mainz in social and legal psychology. I am interested in conspiracy beliefs and radicalization, open science practices, and programming in R. In her free time, I enjoy to go for a hike and play the ukulele. 
+I am a postdoctoral student at the University of Mainz in social and legal psychology. I am interested in conspiracy beliefs and radicalization, open science practices, and programming in R. I am well known for my comprehensive subject knowledge, my innovative research approaches and my substantial coding skills. In her free time, I enjoy to go for a hike and play the ukulele. 
 
 ## Education
 
